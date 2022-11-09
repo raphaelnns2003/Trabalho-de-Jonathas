@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body><center>
+    <img src="https://b2b989d215c701ad63d7-288404e13f895703cf2798bf6ae95228.ssl.cf1.rackcdn.com/395853553665-350.png">
+    <article>
+        <header>
+
+          <h1>Bem vindo ao Pet Life</h1>
+      <br>
+      <br>
+          <p>Esse é o nosso Site apenas em HTML</p>
+          
+        </header>
+        <p>Click abaixo para acessar⬇️.</p></center>
+    </article>
+    <center>
+    <p>Nossos links de acesso:</p>
+
+    <nav>
+    <a href="https://www.petslife.vet.br/" target="iframe_a">HOME</a>_
+    <a href="https://petcare.com.br/agendamento/" target="iframe_a">AGENDAMENTO</a>_
+    <a href="https://petcare.com.br/contato/" target="iframe_a">CONTATO_DÚVIDAS</a>
+    
+    </nav></center>
+    <br>
+    <br>
+<h2>AQUI OS SITES DO LINK ⬇️</h2>
+
+<iframe src="demo_iframe.htm" name="iframe_a" height="500px" width="100%" title="Iframe Example"></iframe>
+
+
+<br>
+<br>
+<p>Só quem é apaixonado por animais sabe: a relação de amor e cumplicidade que temos com nossos bichinhos de estimação é um vínculo único! Por essa razão, não medimos esforços para oferecer o que há de melhor para trazer ainda mais alegria e qualidade de vida. Rações, acessórios, medicamentos e brinquedos estão na nossa listinha de prioridades; e tudo isso você encontra no PET LIFE.</p>    
+<br>
+<br>
+<br><center>
+  <footer>
+   
+    <p>Autor: Raphael De Souza Cabral Nunes, André Luís Nunes Dos Santos Junior <br>
+ email: <a href="raphaelnns2003@gmail.com">raphaelnns2003@gmail.com</a></p>
+    
+  </footer></center>
+
+</body>
+</html>
